@@ -1,0 +1,5 @@
+Variables: las variables son contenedores con nombres donde se guardan datos
+Strings: Es texto
+Funciones: como el nombre lo dice son herramientas para agilizar el trabajo. Un argumento es lo que a veces necesita esta herramienta para funcionar en su totalidad y return se lleva el resultado de esa funcion para poder utilizarlo
+Declaracion if: Es una desición, si la condicion dada se cumple, la declaracion devolvera un "Verdadero". Si no se cumple, devolvera "Falso"
+Booleanos: Son valores logicos: verdadero y falso, positivo y negativo, apagado o prendido.
